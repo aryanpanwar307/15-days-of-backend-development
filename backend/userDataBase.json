@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "ap",
+    "email": "ap@gmail.com",
+    "age": 20,
+    "address": "shaitan gali huehue"
+  },
+  {
+    "id": 2,
+    "name": "name",
+    "email": "name1@gmail.com",
+    "age": 22,
+    "address": "shaitan gali name1"
+  },
+  {
+    "id": 1690649594662,
+    "name": "name",
+    "email": "name1@gmail.com",
+    "age": 22,
+    "address": "shaitan gali name1"
+  },
+  {
+    "id": 1690650301468,
+    "name": "name",
+    "email": "name1@gmail.com",
+    "age": 22,
+    "address": "shaitan gali name1"
+  },
+  {
+    "id": 1690651286476,
+    "name": "name",
+    "email": "name1@gmail.com",
+    "age": 22,
+    "address": "shaitan gali name1"
+  },
+  {
+    "id": 1690651342206,
+    "name": "post element",
+    "email": "name1@gmail.com",
+    "age": 22,
+    "address": "shaitan gali name1"
+  }
+]
